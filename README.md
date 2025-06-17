@@ -26,7 +26,6 @@ pyinstaller --onefile main.py
 完成後會在 dist/ 目錄下產生 main 可執行檔案。
 
 2. 在 Linux / macOS 上執行
-3. 
 請先賦予執行權限並啟動程式：
 chmod +x dist/main
 ./dist/main
